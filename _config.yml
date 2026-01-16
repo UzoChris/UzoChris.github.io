@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "web_image.jpeg"
   name             : "Uzochi Gideon"
   pronouns         : "she/her"  
   bio              : "Hi, I am Uzochi Gideon, a PhD student in Computational and Applied Mathematics. My research Numerical Analysis, scientific machine learning, and computational methods for solving real-world problems"
