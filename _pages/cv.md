@@ -27,7 +27,7 @@ Work experience
   * Duties included: Filing of currency transaction report
   * Supervisor: Victor Obetta
 
-* Summer 2015: Instructor
+* Spring-Fall 2022: Instructor
   * Phostine Premium Schools
   * Duties included: Conducting tutorials and grading
   * Supervisor: Mrs Lilian Ogbu
