@@ -11,7 +11,7 @@ main:
   - title: "Publications"
     url: /publications/
 
-- title: "Education"
+  - title: "Education"
     url: /education/
     
   - title: "Talks"
