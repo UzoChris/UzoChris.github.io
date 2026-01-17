@@ -1,5 +1,6 @@
 ---
 title: "Education"
+layout: archive
 permalink: /education/
 ---
 
