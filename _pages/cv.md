@@ -11,34 +11,38 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computational & Applied Mahematics, Rice University, 2028 (expected)
+* M.A. in Computational & Applied Mathematics, Rice University, 2025
+* B.S. in Mathematics, University of Nigeria, Nsukka, 2019
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Fall 2023 - present: Research Assistant
+  * Rice University
+  * Duties includes: Analysing and implementing numerical schemes
+  * Supervisor: Professor Beatrice Riviere
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Spring/Summer 2023: Complian & Internal Control Intern 
+  * Allianz Nigeria Insurance PLC
+  * Duties included: Filing of currency transaction report
+  * Supervisor: Victor Obetta
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2015: Instructor
+  * Phostine Premium Schools
+  * Duties included: Conducting tutorials and grading
+  * Supervisor: Mrs Lilian Ogbu
+    
+* Spring 2020 - 2021: Graduate Assistant
+  * University of Jos, Plateau State, Nigeria
+  * Duties included: Academic Planning and mangament, ensuring quality services and resources
+  * Supervisor: Professor Guwon
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
+* Technical Skills
+  * Matlab
+  * Python
+  * Fenics
 * Skill 3
 
 Publications
@@ -58,7 +62,20 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Conferences/Workshop
+======
+* Research at the Interface of Applied Mathematics and Machine Learning CBMS Conference, Houston, TX, December 2025.
+* Numerical Analysis and Scientific Computing Workshop, Houston, TX, October, 2025.
+* SIAM TX-LA Meeting, Austin, TX, September, 2025
+* Scientific Machine Learning Workshop, Austin, TX, September, 2025
+* Structure-Preserving Scientific Computing and Machine Learning Summer School and Hackathon, Seattle, WA, June, 2025.
+* High Performance Computing Conference, Rice Ken Kennedy Institute, February, 2025.
+* Finite Element Rodeo, Houston, TX, March 2024.
+* Numerical Analysis and Scientific Computing Workshop, Houston, TX, October, 2024.
+
+  
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Treasurer: Society of Industrial and Applied Mathematics, Rice University Student Chapter, September 2025 - present.
