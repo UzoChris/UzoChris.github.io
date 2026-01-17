@@ -6,18 +6,18 @@ permalink: /education/
 
 ## PhD
 
-**PhD in Applied & Computational Mathematics**  
+**PhD in Computational &  Applied Mathematics**  
 Rice University  
 2025 – Present
 
 ## Master’s
 
-**MSc in Mathematics**  
-(Your previous university)  
+**MA in Computational &  Applied Mathematics**  
+Rice University 
 2023 – 2025
 
 ## Bachelor’s
 
 **BSc in Mathematics**  
-(Your undergraduate university)  
+University of Nigeria, Nsukka  
 2015 – 2019
