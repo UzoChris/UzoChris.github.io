@@ -1,0 +1,12 @@
+---
+title: "Formulation and Analysis of Numerical Schemes for Coupled 3D-1D PDEs"
+event: "Numerical Analysis and Scientific Computing Workshop"
+collection: talks
+type: "Talk"
+permalink: /talks/2025-10-03-talk-1
+venue: "O'connor Building 5th floor conference room"
+date: 2025-10-03
+location: "Houston, TX, USA"
+---
+
+Talk on modeling flows in porous media with 3D-1D coupled equations, using finite element and discontinuous Galerkin methods, with convergence, existence, and uniqueness analysis.
