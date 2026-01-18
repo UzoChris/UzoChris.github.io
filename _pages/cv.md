@@ -1,5 +1,5 @@
 ---
-layout: sinle
+layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
@@ -59,9 +59,9 @@ Talks
   
 Teaching
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+  <ul>{% for post in site.teaching reversed %}
+  {{ post.content }}
+{% endfor %}</ul>
 
 Conferences/Workshop
 ======
