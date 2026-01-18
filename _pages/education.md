@@ -12,7 +12,7 @@ Rice University
 
 ## Master’s
 
-**MSc in Computational & Applied Mathematic**  
+**MA in Computational & Applied Mathematic**  
 Rice University  
 2023 – 2025
 
