@@ -5,7 +5,7 @@ type: "Teaching"
 permalink: /teaching/2022-teaching-experience/
 venue: "Phostine Premium Schools"
 date: 2022-01-01
-location: "NIGERIA"
+location: "Nigeria"
 ---
 
 I have one year of teaching experience where I assisted learners  in a vaeirty of courses.  
