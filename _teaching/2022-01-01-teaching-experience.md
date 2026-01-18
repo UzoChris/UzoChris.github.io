@@ -3,6 +3,7 @@ title: "Teaching Experience"
 collection: teaching
 type: "Teaching"
 permalink: /teaching/2022-teaching-experience/
+full_content: true
 venue: "Phostine Premium Schools"
 date: 2022-01-01
 location: "Nigeria"
