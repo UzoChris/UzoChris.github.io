@@ -17,7 +17,7 @@ I am a PhD student in Computational and Applied Mathematics with research intere
 ## Current Research Project
 
 **Coupled 3D–1D Advection-Diffusion PDEs**  
-I am currently working on a project that couples three-dimensional and one-dimensional advection-diffusion equations to model flows in porous media and networked structures. The focus is on creating stable numerical schemes and analyzing their convergence properties.
+I am currently working on a project that couples three-dimensional and multiple one-dimensional diffusion equations to model flows in porous media and networked structures. The focus is on creating stable numerical schemes and analyzing their convergence properties.
 
 ## Research Methods & Interests
 
