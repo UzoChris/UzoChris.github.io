@@ -3,7 +3,7 @@ title: "Theoretical convergence of Numerical Schemes for Coupled 3D-1D Partial D
 collection: Rice University Theses and Dissertation
 category: manuscripts
 permalink: /Rice University Theses and Dissertation/2025-04-21-paper-title-number-1
-excerpt: 'This paper analyzes numerical schemes for a steady coupled 3D-1D diffusion-advection equations, establishing the existence and uniqueness of weak solution and discrete solution, and some convergence results.'
+excerpt: 'This paper analyzes numerical schemes for a steady state coupled 3D-1D diffusion-advection equations, establishing the existence and uniqueness of the weak solution and discrete solution, and some convergence results.'
 date: 2025-04-21
 venue: 'Rice University'
 paperurl: 'https://hdl.handle.net/1911/118474'
