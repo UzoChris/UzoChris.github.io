@@ -7,7 +7,7 @@ author_profile: true
 
 <!-- Hero Image at the Top -->
 <div style="text-align:center; margin-bottom:2em;">
-  <img src="/images/finitewebsite.png" alt="Finite Element Illustration" style="max-width:100%; height:auto; border-radius:8px;">
+  <img src="/images/websiteimage.png" alt="Finite Element Illustration" style="max-width:100%; height:auto; border-radius:8px;">
 </div>
 
 ## About Me & Research Focus
